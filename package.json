@@ -1,0 +1,42 @@
+{
+  "name": "product-management",
+  "version": "1.0.0",
+  "author": "Deborah Kurata",
+  "description": "Package for the Acme Employee Management sample application",
+  "scripts": {
+    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lint": "tslint ./app/**/*.ts -t verbose",
+    "lite": "lite-server",
+    "typings": "typings"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.1.2",
+    "@angular/compiler": "^4.1.2",
+    "@angular/core": "^4.1.2",
+    "@angular/forms": "^4.1.2",
+    "@angular/http": "^4.1.2",
+    "@angular/platform-browser": "^4.1.2",
+    "@angular/platform-browser-dynamic": "^4.1.2",
+    "@angular/router": "^4.1.2",
+    "@types/jasmine": "^2.5.47",
+    "@types/node": "^7.0.18",
+    "@types/selenium-webdriver": "^3.0.3",
+    "bootstrap": "*",
+    "core-js": "*",
+    "reflect-metadata": "*",
+    "rxjs": "^5.4.0",
+    "systemjs": "^0.20.12",
+    "zone.js": "^0.8.10"
+  },
+  "devDependencies": {
+    "concurrently": "^2.2.0",
+    "lite-server": "^2.2.0",
+    "tslint": "^3.7.4",
+    "typescript": "^2.0.2",
+    "typings": "^1.0.4"
+  },
+  "repository": {}
+}

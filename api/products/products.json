@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "employeeName": "Naveen Kumar",
+        "employeeCode": "GDN-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "Salary": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "https://www.iconfinder.com/icons/10593/employee_icon"
+    },
+    {
+        "id": 2,
+        "employeeName": "Priya Kulkarni",
+        "employeeCode": "GDN-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "15 gallon capacity rolling garden cart",
+        "Salary": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "D:\\Angular2-GettingStarted-master\\APM\\images\\employee2.jpg"
+    },
+    {
+        "id": 5,
+        "employeeName": "Vishal Jagani",
+        "employeeCode": "TBX-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Curved claw steel hammer",
+        "Salary": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "D:\\Angular2-GettingStarted-master\\APM\\images\\employee3.jpg"
+    },
+    {
+        "id": 8,
+        "employeeName": "Sunil MP",
+        "employeeCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "15-inch steel blade hand saw",
+        "Salary": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "D:\\Angular2-GettingStarted-master\\APM\\images\\employee4.jpg"
+    },
+    {
+        "id": 10,
+        "employeeName": "Kirtesh Shah",
+        "employeeCode": "GMG-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Standard two-button video game controller",
+        "Salary": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    }
+]
